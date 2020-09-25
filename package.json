@@ -3,9 +3,6 @@
   "description": "Fabricante do melhor Álcool gel antisséptico hidratante de rápida absorção para as mãos do Brasil.",
   "version": "1.0.0",
   "author": "Carlos Guimarães <sekmet@open4g.com>",
-  "engines": {
-    "node": "=> 10.13 < 10.11"
-  },
   "dependencies": {
     "@loadable/component": "^5.13.1",
     "@sekmet/react-structured-data": "^1.2.3",
@@ -75,9 +72,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/naturegel/naturegel-shop"
+    "url": "https://github.com/sekmet/naturegel-shop"
   },
   "bugs": {
-    "url": "https://github.com/naturegel/naturegel-shop/issues"
+    "url": "https://github.com/sekmet/naturegel-shop/issues"
   }
 }
